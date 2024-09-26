@@ -224,3 +224,6 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+<hr>Result:</hr>
+<p> Thus the A* search algorithm is implemented successfully!</p>
