@@ -225,5 +225,5 @@ G 0 <br>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
 
-<hr>Result:</hr>
+<hr2>Result:</hr2>
 <p> Thus the A* search algorithm is implemented successfully!</p>
